@@ -6,7 +6,7 @@
     padding: 0;
 };
  
-#footer {
-    padding: 200px;
-    
+#footer /* dimensionamento */ {
+    width: auto;
+    height: 200px;
 }
