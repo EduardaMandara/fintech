@@ -8,5 +8,7 @@
 - [ ] Definir cores;
 - [x] Iniciar os arquivos;
 - [x] Trabalhar no README;
+- [x] Vercel;
 - [ ] ;
-- [ ] ;
+
+Visualize o progresso - > https://fintech-flax.vercel.app/
