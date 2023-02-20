@@ -6,12 +6,27 @@
     padding: 0;
 };
 
-.header 
-{
-    background-color: black;
+/* Paleta de Cores */
+:root {
+    --color: #fd7e14 ;
 }
 
-body
-{
+
+:root {
+    --color: #dc3545 ;
+}
+
+
+:root {
+    --color: #ffc107 ;
+}
+
+
+:root {
+    --color: #20c997 ;
+}
+
+
+body {
     background-color: black;
 }
