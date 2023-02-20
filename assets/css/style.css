@@ -8,21 +8,9 @@
 
 /* Paleta de Cores */
 :root {
-    --color: #fd7e14 ;
-}
-
-
-:root {
     --color: #dc3545 ;
-}
-
-
-:root {
+    --color: #fd7e14 ;
     --color: #ffc107 ;
-}
-
-
-:root {
     --color: #20c997 ;
 }
 
