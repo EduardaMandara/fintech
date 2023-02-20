@@ -1,8 +1,20 @@
 @import url();
 
-* 
-{
+* {
     margin: 0;
     padding: 0;
 };
 
+/* Paleta de Cores */
+:root {
+    --negative: #dc3545 ;
+    --atention: #fd7e14 ;
+    --intermed: #ffc107 ;
+    --positive: #20c997 ;
+    --page: #434343 ;
+    --footer: #0d6efd ;
+} ;
+
+#header {
+    background-color: var(--footer);
+}

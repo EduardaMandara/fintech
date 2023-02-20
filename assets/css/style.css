@@ -22,9 +22,11 @@ body {
 }
 
 #header {
-    background-color: var(--page);
+    
 }
 
 #footer {
     background-color: var(--footer);
+    height: 200px;
+    width: auto;
 }
