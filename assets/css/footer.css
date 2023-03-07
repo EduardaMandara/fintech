@@ -4,14 +4,25 @@
 {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-
-    width: 100%;
-    height: 300px;
 };
- 
-#footer /* dimensionamento */ {
-    width: auto;
-    height: 200px;
+
+/* Paleta de Cores */
+:root {
+    --negative: #dc3545 ;
+    --atention: #fd7e14 ;
+    --intermed: #ffc107 ;
+    --positive: #20c997 ;
+    --page: #434343 ;
+    --footer: #0d6efd ;
 }
 
+#footer {
+    background-color: var(--footer);
+    height: 200px;
+    width: auto;
+
+    bottom: 0;
+    position: fixed;
+    width: 90%;
+    text-align: center;
+}
